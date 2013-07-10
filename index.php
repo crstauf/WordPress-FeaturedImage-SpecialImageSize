@@ -3,4 +3,4 @@
 
 the_post_thumbnail('ptfi_{post_type}'));
 
-wp_get_attachment_image_src($thumbnail_id,'ptfi_{post_type});
+wp_get_attachment_image_src($thumbnail_id,'ptfi_{post_type}');
